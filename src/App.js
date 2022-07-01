@@ -118,7 +118,12 @@ export default function App() {
   return (
     <Div100vh>
       <GlobalStyles styles={{ ...darkScrollbar() }} />
-      <GithubCorner href="https://github.com/artt/dltqme" direction="left" bannerColor="#4C2B68" />
+      <GithubCorner
+        href="https://github.com/artt/dltqme"
+        target="_blank"
+        rel="noopener noreferrer"
+        direction="left" bannerColor="#4C2B68"
+      />
       <ThemeProvider theme={theme}>
         <div className="App">
           <div className="sidebar">
