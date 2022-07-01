@@ -1,6 +1,6 @@
 {
-  "name": "dlt-queue-checker",
-  "homepage": "https://artt.github.io/dltqme",
+  "name": "dltqme",
+  "homepage": "https://by.artt.dev/dltqme",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
