@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dltqme/static/css/main.ed945d91.css",
-    "main.js": "/dltqme/static/js/main.c953a96a.js",
+    "main.css": "/dltqme/static/css/main.c506b0d6.css",
+    "main.js": "/dltqme/static/js/main.2311ccc9.js",
     "static/js/787.68f1abc6.chunk.js": "/dltqme/static/js/787.68f1abc6.chunk.js",
     "static/media/qr-promptpay.svg": "/dltqme/static/media/qr-promptpay.3ff48f084c2a18ce705039068db4328d.svg",
     "index.html": "/dltqme/index.html",
-    "main.ed945d91.css.map": "/dltqme/static/css/main.ed945d91.css.map",
-    "main.c953a96a.js.map": "/dltqme/static/js/main.c953a96a.js.map",
+    "main.c506b0d6.css.map": "/dltqme/static/css/main.c506b0d6.css.map",
+    "main.2311ccc9.js.map": "/dltqme/static/js/main.2311ccc9.js.map",
     "787.68f1abc6.chunk.js.map": "/dltqme/static/js/787.68f1abc6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed945d91.css",
-    "static/js/main.c953a96a.js"
+    "static/css/main.c506b0d6.css",
+    "static/js/main.2311ccc9.js"
   ]
 }
