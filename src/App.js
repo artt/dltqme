@@ -20,6 +20,7 @@ import LoadingButton from '@mui/lab/LoadingButton';
 import TagManager from 'react-gtm-module'
 import Div100vh from 'react-div-100vh'
 import CircularProgress from '@mui/material/CircularProgress';
+import GithubCorner from 'react-github-corner';
 
 const tagManagerArgs = {
     gtmId: 'G-NKZXF8HPWS'
@@ -117,6 +118,7 @@ export default function App() {
   return (
     <Div100vh>
       <GlobalStyles styles={{ ...darkScrollbar() }} />
+      <GithubCorner href="https://github.com/artt/dltqme" direction="left" bannerColor="#4C2B68" />
       <ThemeProvider theme={theme}>
         <div className="App">
           <div className="sidebar">
