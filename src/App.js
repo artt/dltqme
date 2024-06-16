@@ -57,7 +57,7 @@ export default function App() {
   const [optChanged, setOptChanged] = React.useState(true)
 
   React.useMemo(() => {
-    return fetch(`https://dltqme.api.artt.dev/list-offices`)
+    return fetch(`https://js.api.artt.dev/dltqme/list-offices`)
       .then(res => res.json())
       .then(res => setAllOffices(res))
   }, [])
@@ -82,7 +82,7 @@ export default function App() {
       alert(`จำนวนสำนักงานที่เลือกเกิน ${MAX_OFFICES} ระบบจะประมวลผลเพียง ${MAX_OFFICES} แรกเท่านั้น`)
     }
     setStatus('fetching')
-    fetch(`https://dltqme.api.artt.dev/work`, {
+    fetch(`https://js.api.artt.dev/dltqme/work`, {
       method: "POST",
       body: JSON.stringify({
         offices: offices.slice(0, MAX_OFFICES),
