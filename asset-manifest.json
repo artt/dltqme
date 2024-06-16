@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dltqme/static/css/main.2bfd49ee.css",
-    "main.js": "/dltqme/static/js/main.c11f5238.js",
-    "static/js/787.d8d532af.chunk.js": "/dltqme/static/js/787.d8d532af.chunk.js",
+    "main.css": "/dltqme/static/css/main.8e8ecec3.css",
+    "main.js": "/dltqme/static/js/main.6c3e2b4e.js",
+    "static/js/453.538afbc3.chunk.js": "/dltqme/static/js/453.538afbc3.chunk.js",
     "static/media/qr-promptpay.svg": "/dltqme/static/media/qr-promptpay.3ff48f084c2a18ce705039068db4328d.svg",
     "index.html": "/dltqme/index.html",
-    "main.2bfd49ee.css.map": "/dltqme/static/css/main.2bfd49ee.css.map",
-    "main.c11f5238.js.map": "/dltqme/static/js/main.c11f5238.js.map",
-    "787.d8d532af.chunk.js.map": "/dltqme/static/js/787.d8d532af.chunk.js.map"
+    "main.8e8ecec3.css.map": "/dltqme/static/css/main.8e8ecec3.css.map",
+    "main.6c3e2b4e.js.map": "/dltqme/static/js/main.6c3e2b4e.js.map",
+    "453.538afbc3.chunk.js.map": "/dltqme/static/js/453.538afbc3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bfd49ee.css",
-    "static/js/main.c11f5238.js"
+    "static/css/main.8e8ecec3.css",
+    "static/js/main.6c3e2b4e.js"
   ]
 }
